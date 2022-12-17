@@ -60,6 +60,10 @@ img.next-image {
   color: #0074de;
 }
 
+.nav-line{
+  display: none;
+}
+
 .nav-line .nav-link {
   color: #69778c;
 }

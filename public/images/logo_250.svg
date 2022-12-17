@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        fill: #9e1987;
+        font-family: "Moonbright Demo";
+      }
+    </style>
+  </defs>
+  <text id="m" class="cls-1" x="51" y="159">m</text>
+</svg>

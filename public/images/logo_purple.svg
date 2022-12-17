@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="50" viewBox="0 0 175 50">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        fill: #9e1987;
+        font-family: "Moonbright Demo";
+      }
+    </style>
+  </defs>
+  <text id="mingler" class="cls-1" transform="translate(1 37.885) scale(0.95)">mingler</text>
+</svg>
